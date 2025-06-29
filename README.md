@@ -22,7 +22,7 @@ A responsive frontend clone of TripAdvisor, developed using HTML5 and CSS3. This
 🚀 Project Links:
 
 - GitHub Repository: [https://github.com/ChandraMukeshRaja/TripAdvisor]
-- Live Demo: [insert live demo link]
+- Live Demo: [https://chandramukeshraja.github.io/TripAdvisor/]
 
 📌 Project Status:
 
